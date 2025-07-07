@@ -1,0 +1,15 @@
+   .Navbarright {
+       align-self: center;
+       margin-right:10px;
+   }
+
+   .Navbarright ul {
+       display: flex;
+       list-style: none;
+   }
+
+   .Navbarright ul li {
+       font-family: sans-serif;
+       text-decoration: none;
+       padding-left: 10px;
+   }
